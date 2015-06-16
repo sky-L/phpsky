@@ -1,4 +1,4 @@
 # phpsky
-依赖composer的框架
+代码少，适用于框架开发入门
 
 >下载代码，执行composer update
